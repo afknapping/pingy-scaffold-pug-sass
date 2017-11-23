@@ -1,1 +1,3 @@
-# pingy-scaffold-pug-sass
+# Tigerstone 2
+
+Opinionated **[Pingy](https://pin.gy/cli/)** [scaffold](https://github.com/pingyhq/pingy-cli/wiki/Creating-a-custom-scaffold) for fast prototyping using [Pug](https://pugjs.org/), indented [Sass](http://sass-lang.com/) and [atomic](http://bradfrost.com/blog/post/atomic-web-design/) single-file components (as [learned from Vue](https://vuejs.org/v2/guide/single-file-components.html)).

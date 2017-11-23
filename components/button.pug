@@ -1,1 +1,6 @@
-button hello button
+mixin button(text)
+
+	if !text
+		- var text = 'text missing'
+
+	button= text
