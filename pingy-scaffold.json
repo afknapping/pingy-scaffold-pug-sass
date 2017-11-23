@@ -1,0 +1,29 @@
+{
+	"name": "hello name",
+	"description": "its a me",
+
+	"dependencies": {
+	},
+
+	"devDependencies": {
+    	"node-sass": "^4.5.3",
+	    "jstransformer-sass": "1.0.0",
+	    "jstransformer-markdown-it":"2.0.0"
+	},
+
+	"files": [
+	  {
+	    "input": "index.pug",
+	    "output": "index.pug"
+	  },
+	  {
+	    "input": "components/button.pug",
+	    "output": "components/button.pug"
+	  },
+	  {
+	    "input": "components/_nuclides.sass",
+	    "output": "components/_nuclides.sass"
+	  }
+	]
+
+}
