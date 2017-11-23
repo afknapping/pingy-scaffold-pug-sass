@@ -1,6 +1,6 @@
 {
-	"name": "hello name",
-	"description": "its a me",
+	"name": "Tigerstone 2",
+	"description": "Opinionated Pingy scaffold for fast prototyping using Pug, indented Sass and atomic single-file components.",
 
 	"dependencies": {
 	},
