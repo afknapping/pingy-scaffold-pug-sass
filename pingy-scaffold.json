@@ -12,6 +12,11 @@
 	    "jstransformer-markdown-it":"2.0.0"
 	},
 
+	"scripts": {
+		"start": "pingy dev",
+		"deploy": "pingy build && surge"
+	},
+
 	"files": [
 	  {
 	    "input": "index.pug",
