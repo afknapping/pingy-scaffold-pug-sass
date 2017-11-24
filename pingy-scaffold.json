@@ -27,6 +27,15 @@
 	    "output": "components/button.pug"
 	  },
 	  {
+	    "input": "components/hero.pug",
+	    "output": "components/hero.pug"
+	  },
+	  {
+	    "input": "components/headline.pug",
+	    "output": "components/headline.pug"
+	  },
+	  {
+
 	    "input": "components/_nuclides.sass",
 	    "output": "components/_nuclides.sass"
 	  },

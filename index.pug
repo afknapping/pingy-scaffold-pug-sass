@@ -1,8 +1,15 @@
-p hello world
-
 include components/_component-list
 
-+button
-+button("jetzt kaufen")
++hero
+	+headline('a nested headline', 1)
+	+button("jetzt was kaufen")
 
 //- add block example https://pugjs.org/language/mixins.html
+
+style
+	:sass
+		body, html
+			margin: 0
+			padding: 0
+			// System Fonts as used by GitHub // https://css-tricks.com/snippets/css/system-font-stack/
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
