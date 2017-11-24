@@ -29,6 +29,10 @@
 	  {
 	    "input": "components/_nuclides.sass",
 	    "output": "components/_nuclides.sass"
+	  },
+	  {
+	    "input": "components/_component-list.pug",
+	    "output": "components/_component-list.pug"
 	  }
 	]
 
