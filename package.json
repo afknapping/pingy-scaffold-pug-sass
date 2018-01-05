@@ -1,0 +1,20 @@
+{
+  "name": "pingy-scaffold-pug-sass",
+  "version": "1.0.0",
+  "description": "Opinionated **[Pingy](https://pin.gy/cli/)** [scaffold](https://github.com/pingyhq/pingy-cli/wiki/Creating-a-custom-scaffold) for fast prototyping using [Pug](https://pugjs.org/), indented [Sass](http://sass-lang.com/) and [atomic](http://bradfrost.com/blog/post/atomic-web-design/) single-file components (as [learned from Vue](https://vuejs.org/v2/guide/single-file-components.html)).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filtercake/pingy-scaffold-pug-sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filtercake/pingy-scaffold-pug-sass/issues"
+  },
+  "homepage": "https://github.com/filtercake/pingy-scaffold-pug-sass#readme"
+}
